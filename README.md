@@ -21,6 +21,7 @@ The client has requested a landing page that is optimized for search engines and
 * Consolidated CSS selectors and properties
 * Re-ordered CSS to follow HTML structure
 * Added alt attributes to images
+* Applied DRY principle to simplified any reoccuring codes
 
 ### Website Link
 https://slmov215.github.io/horiseon-refactor/

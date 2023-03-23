@@ -8,6 +8,8 @@ body {
   background-color: #d9dcd6;
 }
 
+/* Changed header class to id */
+
 #header {
   padding: 20px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +26,7 @@ body {
   color: #d9dcd6;
 }
 
+/* Changed div to nav */
 #header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -50,11 +53,12 @@ p {
   font-size: 16px;
 }
 
-.hero {
+/* Changed div to section for both .hero and .content
+   Move image file to .html to add alt text */
+.hero img{
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
-  background-image: url("../image/digital-marketing-meeting.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -64,6 +68,8 @@ p {
   display: inline-block;
   margin-left: 20px;
 }
+
+/* Replaced div elements to article for the classes within section */
 .content article {
   margin-bottom: 20px;
   padding: 50px;
@@ -73,7 +79,7 @@ p {
   color: #ffffff;
 }
 
-
+/* merged repeated rules together */
 .content img {
   max-height: 200px;
 }
@@ -92,6 +98,7 @@ p {
   float: right;
   margin-left: 25px;
 }
+
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -103,7 +110,7 @@ p {
   background-color: #2589bd;
 }
 
-.benefits div {
+.benefits section {
   margin-bottom: 32px;
   color: #ffffff;
 }

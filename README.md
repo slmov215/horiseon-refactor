@@ -23,12 +23,18 @@ The client has requested a landing page that is optimized for search engines and
 * Added alt attributes to images
 * Applied DRY principle to simplified any reoccuring codes
 
-### Website Link
-https://slmov215.github.io/horiseon-refactor/
-
-### Screenshot
+### Usage / Screenshot
 
 ![screenshot](./assests/image/horiseon-refactor-screenshot.png)
 
-## Contact
+#### Website Link
+[Click here for live site]
+https://slmov215.github.io/horiseon-refactor/
+
+#### Contact
+[Click here for live site]
 [Stephen Mov on GitHub](https://github.com/slmov215)
+
+### License
+
+Refer to the license in the repo.

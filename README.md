@@ -28,12 +28,10 @@ The client has requested a landing page that is optimized for search engines and
 ![screenshot](./assests/image/horiseon-refactor-screenshot.png)
 
 #### Website Link
-[Click here for live site]
-https://slmov215.github.io/horiseon-refactor/
+[Click here for live site](https://slmov215.github.io/horiseon-refactor/)
 
 #### Contact
-[Click here for live site]
-[Stephen Mov on GitHub](https://github.com/slmov215)
+[Stephen Mov on GitHub](https://github.com/slmov215/horiseon-refactor)
 
 ### License
 
